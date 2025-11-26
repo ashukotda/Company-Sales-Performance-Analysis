@@ -1,0 +1,32 @@
+📌 A. Sales Summary Analysis
+Find the total sales (Total Amount) for the entire year.
+Find the total quantity sold for each region.
+Which region generated the highest revenue?
+Find the average unit price for each product category.
+Which product has the maximum revenue overall?
+📌 B. Category & Product Analysis
+Find total sales for each category (Electronics, Clothing, Grocery, Furniture).
+Find the top 5 highest-selling products by quantity.
+Find the top 5 highest-earning products by total amount.
+Which category has the lowest sales?
+Find the total number of transactions per category.
+📌 C. Time-Based Analysis
+Calculate monthly sales for the entire year (Jan–Dec).
+Identify the month with the highest and lowest revenue.
+Create a line chart showing sales trend across the year.
+Find weekly average sales using grouped dates.
+Compare Q1, Q2, Q3, Q4 sales (quarter-wise analysis).
+📌 D. Region-Based Insights
+Which region sells the most Electronics category?
+Which regions prefer which product category the most?
+Find region-wise monthly performance using a pivot chart.
+📌 E. Profitability / Pricing Insights
+Find the average total bill amount per transaction.
+Find the highest unit price product sold.
+Show products priced above ₹3000 and analyze their total sales.
+Build a dashboard showing:
+Total Sales
+Region-wise Sales
+Category-wise Sales
+Monthly Trend
+Top Products
